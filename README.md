@@ -15,7 +15,6 @@ Welcome to the React-Node Recipe App! This application allows users to view, add
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/eliteservice1002/React_Node_Recipe_App.git
-   cd react-node-recipe-app
    ```
 
 2. **Setting up the Backend**:
